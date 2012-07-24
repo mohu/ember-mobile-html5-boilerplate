@@ -1,5 +1,5 @@
-CSS / Less Boilerplate house cleaning
-=====================================
+CSS / Stylus Boilerplate house cleaning
+=======================================
 
 style.styl contains the latest boilerplate CSS as of v3.0
 
